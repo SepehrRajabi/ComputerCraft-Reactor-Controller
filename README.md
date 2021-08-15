@@ -14,7 +14,7 @@ A program written on top of [Siarko's button api](https://github.com/Siarko/Butt
 
 to load the api inside of your file
 
-2. Change the
+1. Change the
 
 ```lua
     monitor_handler = peripheral.wrap("right")
@@ -22,7 +22,7 @@ to load the api inside of your file
 
 variable according to your setup.
 
-3. Run the program at startup
+1. Run the program at startup
 
 ---
 
