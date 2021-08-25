@@ -9,12 +9,12 @@ A program written on top of [Siarko's button api](https://github.com/Siarko/Butt
 1. Use
 
 ```lua
-    os.loadAPI()
+    os.loadAPI("<the api's file name>")
 ```
 
 to load the api inside of your file
 
-1. Change the
+2. Change the
 
 ```lua
     monitor_handler = peripheral.wrap("right")
@@ -22,7 +22,7 @@ to load the api inside of your file
 
 variable according to your setup.
 
-1. Run the program at startup
+3. Run the program at startup
 
 ---
 
