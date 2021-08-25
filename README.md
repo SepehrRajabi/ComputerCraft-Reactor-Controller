@@ -9,7 +9,7 @@ A program written on top of [Siarko's button api](https://github.com/Siarko/Butt
 1. Use
 
 ```lua
-    os.loadAPI()
+    os.loadAPI("<the api's file name>")
 ```
 
 to load the api inside of your file
